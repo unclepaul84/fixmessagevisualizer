@@ -1,8 +1,8 @@
 ### Summary
-This project provides Visual Studio Debug Visualizer that makes debugging FIX code easier. This project is based on [[QuickFIX/n |https://github.com/connamara/quickfixn]]. Actually, it is based on  [[my fork |https://github.com/unclepaul84/quickfixn]] of it, because some changes needed to be made to make visualizer code work.
+This project provides Visual Studio Debug Visualizer that makes debugging FIX code easier. This project is based on [QuickFIX/n](https://github.com/connamara/quickfixn). Actually, it is based on  [my fork](https://github.com/unclepaul84/quickfixn) of it, because some changes needed to be made to make visualizer code work.
 
 ### Features
- * Automatically loads proper [[QuickFIX/n |https://github.com/connamara/quickfixn]] [[dictionaries |https://github.com/connamara/quickfixn/tree/master/spec/fix]] based on BeginString
+ * Automatically loads proper [QuickFIX/n](https://github.com/connamara/quickfixn) [dictionaries](https://github.com/connamara/quickfixn/tree/master/spec/fix) based on BeginString
  * Supports custom dictionaries (by modifying the default dictionary)
  * Displays enumeration values (even multi values)
  * Supports (recursive) FIX Tag Groups
@@ -13,13 +13,6 @@ This project provides Visual Studio Debug Visualizer that makes debugging FIX co
 
 ### Installation 
 
-1. Download https://github.com/downloads/unclepaul84/fixmessagevisualizer/FixMessageDebugVisualizer.zip
+1. (Download Package)[https://github.com/downloads/unclepaul84/fixmessagevisualizer/FixMessageDebugVisualizer.zip]
 
 2. Copy contents to My Documents\VisualStudioVersion\Visualizers
-
-***
-
-
-[[https://github.com/downloads/unclepaul84/fixmessagevisualizer/FixVisualizer.png]]
-
-[[https://github.com/downloads/unclepaul84/fixmessagevisualizer/FixVisulizer2.png]]
