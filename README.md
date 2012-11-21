@@ -1,3 +1,4 @@
+#FIX Message Debug Visualizer
 ### Summary
 This project provides Visual Studio Debug Visualizer that makes debugging FIX code easier. This project is based on [QuickFIX/n](https://github.com/connamara/quickfixn). Actually, it is based on  [my fork](https://github.com/unclepaul84/quickfixn) of it, because some changes needed to be made to make visualizer code work.
 
@@ -13,6 +14,5 @@ This project provides Visual Studio Debug Visualizer that makes debugging FIX co
 
 ### Installation 
 
-1. (Download Package)[https://github.com/downloads/unclepaul84/fixmessagevisualizer/FixMessageDebugVisualizer.zip]
-
+1. [Download Package](https://github.com/downloads/unclepaul84/fixmessagevisualizer/FixMessageDebugVisualizer.zip])
 2. Copy contents to My Documents\VisualStudioVersion\Visualizers
