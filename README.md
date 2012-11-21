@@ -16,3 +16,9 @@ This project provides Visual Studio Debug Visualizer that makes debugging FIX co
 
 1. [Download Package](https://github.com/downloads/unclepaul84/fixmessagevisualizer/FixMessageDebugVisualizer.zip])
 2. Copy contents to My Documents\VisualStudioVersion\Visualizers
+
+***
+
+[![FIX Message Visualizer][1]](https://github.com/unclepaul84/fixmessagevisualizer/wiki/FIX-Message-Debug-visualizer)
+
+[1]: https://github.com/downloads/unclepaul84/fixmessagevisualizer/FixVisulizer2.png
